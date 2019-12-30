@@ -7,3 +7,5 @@
 
 console.log("\n\n 8 cards FP<-----------===\n");
 require('./myJS/cardC-FP-1-8cards.js');
+
+// to run ```node index.js```
